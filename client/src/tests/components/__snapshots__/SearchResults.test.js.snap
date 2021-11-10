@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in SearchResults.js should render <SearchResults /> 1`] = `
+<styled.div
+  onClick={[Function]}
+>
+  <styled.img
+    src="https://i.scdn.co/image/ab67616d00004851f9171c2b7bab0956cdfbd1fa"
+  />
+  <styled.div>
+    <div>
+      New Lands
+    </div>
+    <styled.div>
+      Justice
+    </styled.div>
+  </styled.div>
+</styled.div>
+`;

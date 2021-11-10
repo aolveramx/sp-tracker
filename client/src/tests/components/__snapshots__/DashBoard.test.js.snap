@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in Dashboard.js should render <Dashboard /> 1`] = `
+<styled.div>
+  <styled.div>
+    <div>
+      <styled.form>
+        <styled.input
+          onChange={[Function]}
+          placeholder="Search Songs"
+          type="search"
+          value=""
+        />
+      </styled.form>
+      <styled.div />
+    </div>
+    <div>
+      <Player />
+    </div>
+  </styled.div>
+</styled.div>
+`;
